@@ -62,9 +62,9 @@ input {
     border: 2px solid #e1e289;
 }
 
-.container-content {
+.container {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
     gap: 2rem;
     justify-content:space-between;
     align-items: center;
